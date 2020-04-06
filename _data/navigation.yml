@@ -22,8 +22,10 @@ foo:
 main:
   - title: "Spring"
     url: /spring/
-  - title: "ci"
-    url: /ci/
+  - title: "maven"
+    url: /maven/
+  - title: "gradle"
+    url: /gradle/
 
 # documentation links
 docs:
